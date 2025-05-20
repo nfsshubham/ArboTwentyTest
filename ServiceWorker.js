@@ -1,9 +1,9 @@
 const cacheName = "Arbomeric-ArboTwenty-1.0";
 const contentToCache = [
     "Build/ArboTwentyTest.loader.js",
-    "Build/ArboTwentyTest.framework.js",
-    "Build/ArboTwentyTest.data",
-    "Build/ArboTwentyTest.wasm",
+    "Build/ArboTwentyTest.framework.js.unityweb",
+    "Build/ArboTwentyTest.data.unityweb",
+    "Build/ArboTwentyTest.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
