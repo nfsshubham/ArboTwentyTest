@@ -1,0 +1,12 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.45f1
+CRC: 606838101
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: gamescenetwosquare
+      Dependencies: {}
+    Info_1:
+      Name: splashscene
+      Dependencies: {}
