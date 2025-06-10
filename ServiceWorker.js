@@ -1,9 +1,9 @@
 const cacheName = "Innate-A Man-1.0";
 const contentToCache = [
     "Build/A Man Build.loader.js",
-    "Build/A Man Build.framework.js.br",
-    "Build/A Man Build.data.br",
-    "Build/A Man Build.wasm.br",
+    "Build/A Man Build.framework.js",
+    "Build/A Man Build.data",
+    "Build/A Man Build.wasm",
     "TemplateData/style.css"
 
 ];
